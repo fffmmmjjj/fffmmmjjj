@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Junseo Jang
-## 👋 Hello, I'm 장준서
+*👋 Hello, I'm 장준서
 
 ## 🧑‍🎓 About Me
 
